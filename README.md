@@ -12,5 +12,5 @@ Secondly, I checked if the semantic difference between graded and non-graded (no
 The aim of my project was to find, or - at least - to suggest empirical proves of the theoretic distinction between graded and non-graded antonyms. Unfortunately, both tests happened to be useless to detect this kind of semantic distinction.
 
 The folder contains: 
-- python notebook (selection of antonyms)
+- Jupiter notebook (selection of antonyms)
 - report (pdf)
