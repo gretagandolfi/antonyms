@@ -11,6 +11,6 @@ First, I tested the intuitions of 26 non-native English speakers, and I tried to
 Secondly, I checked if the semantic difference between graded and non-graded (non- binary and binary) antonyms can be seen also from a distributional point of view, using the analogy task.
 The aim of my project was to find, or - at least - to suggest empirical proves of the theoretic distinction between graded and non-graded antonyms. Unfortunately, both tests happened to be useless to detect this kind of semantic distinction.
 
-The folder contains: 
+The repository contains: 
 - Jupiter notebook (selection of antonyms)
 - report (pdf)
