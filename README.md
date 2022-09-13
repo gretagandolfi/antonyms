@@ -1,5 +1,5 @@
 # Antonyms
-CL project
+Computational Linguistics course project (MSc Cognitive Science - Language and Multimodal Interaction Track, CIMeC @ University of Trento)
 
 
 _Abstract_
